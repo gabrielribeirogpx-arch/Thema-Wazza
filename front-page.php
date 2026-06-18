@@ -17,7 +17,7 @@ $features = array('Inbox Omnichannel','IA Generativa','Flow Builder','CRM','Camp
             <div class="mockup-top" aria-hidden="true"><span></span><span></span><span></span></div>
             <div class="dashboard-ui">
                 <aside><div class="mini-logo">W</div><span></span><span></span><span></span><span></span><span></span></aside>
-                <section><div class="dash-head"><b>Boa noite, Gabriel 👋</b><button>+ Novo fluxo</button></div><div class="kpi-row"><div>Conversas<br><b>1</b></div><div>Mensagens<br><b>243</b></div><div>Resposta<br><b>117%</b></div></div><svg class="chart" viewBox="0 0 520 190" role="img" aria-label="Gráfico de mensagens"><path d="M0 170 C60 40 110 50 170 82 S270 190 340 70 455 30 520 150"/><path class="blue" d="M0 170 C70 85 120 90 190 105 S275 185 350 90 455 28 520 150"/></svg></section>
+                <section><div class="dash-head"><b>Boa noite, Gabriel 👋</b><button>+ Novo fluxo</button></div><div class="kpi-row"><div>Conversas<br><b>1</b></div><div>Mensagens<br><b>243</b></div><div>Resposta<br><b>117%</b></div></div><svg class="chart" viewBox="0 0 520 190" role="img" aria-label="Gráfico de mensagens"><path d="M0 170 C60 40 110 50 170 82 S270 190 340 70 455 30 520 150"/><path class="brand-accent" d="M0 170 C70 85 120 90 190 105 S275 185 350 90 455 28 520 150"/></svg></section>
                 <div class="phone"><b>IA Wazza</b><p>Olá! Consultei sua base RAG e já encontrei o melhor plano.</p><em>Transferir para humano</em></div>
             </div>
         </div>
