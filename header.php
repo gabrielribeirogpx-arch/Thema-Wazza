@@ -26,4 +26,5 @@ if (!defined('ABSPATH')) { exit; }
         </div>
     </div>
 </header>
+<div class="site-menu-overlay" data-menu-overlay hidden></div>
 <main id="content" class="site-main">
